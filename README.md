@@ -2,7 +2,7 @@
 
 ## 🎓 What's CS50x?
 
-It's this super cool, totally not daunting introduction to computer science and programming, crafted by the brainy folks at Harvard. From the mysteries of algorithms to the art of making websites look pretty, CS50x has got it all, and then some!
+It's an introductory course taught by Harvard University, just the first of many I'm planning to take! 
 
 ## 🚀 My Projects
 
