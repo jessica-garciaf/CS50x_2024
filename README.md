@@ -24,6 +24,7 @@ Here's a sneak peek at what you'll find inside:
 ## 💻 Technologies
 
 - **HTML & CSS**
+- **Artificial Intelligence**
 - **JavaScript**
 - **C**
 - **Python**
